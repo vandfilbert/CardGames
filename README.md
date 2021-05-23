@@ -1,4 +1,4 @@
 # CardGames
-Native Swift\n
-MVC Concept\n
-Works perfectly on XCode\n
+* Native Swift <br/>
+* MVC Concept <br/>
+* Works perfectly on XCode <br/>
